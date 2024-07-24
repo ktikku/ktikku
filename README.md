@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm passionate about technology. Here's a bit more
 - **Open Source:** Contributing to open-source projects and collaborating with the community is a great way to learn and grow.
 
 
-## 💞️ Collaboration
+## 🤝 Collaboration
 
 I'm open to collaborating on projects related to:
 
